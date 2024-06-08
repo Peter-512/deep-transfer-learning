@@ -1,0 +1,5 @@
+**/.DS_Store
+venv/
+.idea/
+content/sample_data/images/vgg_face_dataset.tar.gz
+
